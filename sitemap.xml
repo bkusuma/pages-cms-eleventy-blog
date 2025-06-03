@@ -7,16 +7,6 @@
 	</url>
 	
 	<url>
-		<loc>https://example.com/pages-cms-eleventy-blog/blog/secondpost/</loc>
-		<lastmod>2018-07-04</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/pages-cms-eleventy-blog/blog/fourthpost/</loc>
-		<lastmod>2018-09-30</lastmod>
-	</url>
-	
-	<url>
 		<loc>https://example.com/pages-cms-eleventy-blog/about/</loc>
 		<lastmod>2025-06-03</lastmod>
 	</url>
