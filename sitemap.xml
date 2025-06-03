@@ -12,52 +12,47 @@
 	</url>
 	
 	<url>
-		<loc>https://example.com/pages-cms-eleventy-blog/blog/thirdpost/</loc>
-		<lastmod>2018-08-24</lastmod>
-	</url>
-	
-	<url>
 		<loc>https://example.com/pages-cms-eleventy-blog/blog/fourthpost/</loc>
 		<lastmod>2018-09-30</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/pages-cms-eleventy-blog/about/</loc>
-		<lastmod>2025-05-26</lastmod>
+		<lastmod>2025-06-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/pages-cms-eleventy-blog/blog/</loc>
-		<lastmod>2025-05-26</lastmod>
+		<lastmod>2025-06-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/pages-cms-eleventy-blog/</loc>
-		<lastmod>2025-05-26</lastmod>
+		<lastmod>2025-06-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/pages-cms-eleventy-blog/tags/</loc>
-		<lastmod>2025-05-26</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/pages-cms-eleventy-blog/tags/number-2/</loc>
-		<lastmod>2025-05-26</lastmod>
+		<lastmod>2025-06-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/pages-cms-eleventy-blog/tags/another-tag/</loc>
-		<lastmod>2025-05-26</lastmod>
+		<lastmod>2025-06-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://example.com/pages-cms-eleventy-blog/tags/number-2/</loc>
+		<lastmod>2025-06-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/pages-cms-eleventy-blog/tags/second-tag/</loc>
-		<lastmod>2025-05-26</lastmod>
+		<lastmod>2025-06-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/pages-cms-eleventy-blog/tags/posts-with-two-tags/</loc>
-		<lastmod>2025-05-26</lastmod>
+		<lastmod>2025-06-03</lastmod>
 	</url>
 </urlset>
